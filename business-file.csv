@@ -1,0 +1,11 @@
+industry,level,size,linecode,value
+total,0,6–19 employees,C0300.01,15639
+total,0,20–49 employees,C0300.01,2943
+total,0,50–99 employees,C0300.01,639
+total,0,100+ employees,C0300.01,555
+"Agriculture, forestry, & fishing",1,total,C0300.01,348
+Agriculture,2,total,C0300.01,177
+Commercial fishing,2,total,C0300.01,3
+Forestry & logging,2,total,C0300.01,12
+"Agriculture, forestry, & fishing support services",2,total,C0300.01,159
+"Agriculture, forestry, & fishing",1,total,C0500.02,57
